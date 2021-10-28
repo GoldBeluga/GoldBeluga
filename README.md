@@ -30,5 +30,5 @@
 - You can use VS Code to edit the C# program in Unity: https://code.visualstudio.com/
 
 # Programming Language :
-<img src = "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="150" height="280">
-<img src = "https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" width="150" height="280">
+<img src = "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" height="100"><img src = "https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" width="100" height="100">
+
