@@ -23,7 +23,7 @@
 ##### If you want games, you can learn Unity : [Unity Engine](https://unity.com/)
 ##### You can also use Unreal : [Unreal Engine](https://www.unrealengine.com/en-US/)
 ##### Unity and Unreal are both Game Engine
-##### If you want to do Android App to learn Java and download Android Studio: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwh5qLBhALEiwAioods10QzoYQVxafHE_KDbIlCXNN44iV-A_ocJ8icfsFLZhsUF8ilw9K7xoCb7EQQ&gclrc_BwAvD)
+##### If you want to do Android App to learn Java and download Android Studio: [Android Studio](https://developer.android.com/studio)
 ##### If you want to develop a system, you can use Eclipse : [Eclipse](https://www.eclipse.org/)
 ##### You can use VS Code to edit the C# program in Unity : [Visual Studio](https://code.visualstudio.com/)
 
