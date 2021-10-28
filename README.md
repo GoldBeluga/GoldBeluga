@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning Unity and C#
+###### - 🌱 I’m currently learning Unity and C#
 - 🤔 I’m looking for help with Unity and C# 
 - 💬 Ask me about : I am currently in developer computer app.
 
