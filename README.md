@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning Unity and C#
 - 🤔 I’m looking for help with Unity and C# 
+- 📫 How to reach me:
+- <img src = https://raw.githubusercontent.com/SamuelCodez/SamuelCodez/main/discord.ico> Discord Server
 - 💬 Ask me about : I am currently in developer computer app.
 # If there are any problem, please write in the comment area
 
