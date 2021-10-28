@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Unity and C#
 - 🤔 I’m looking for help with Unity and C# 
 - 💬 Ask me about : I am currently in developer computer app.
-
-### My article:
 # If there are any problem, please write in the comment area
 
 - Java, C#, C, Python, etc. are all high-level languages, C++ is an intermediate language, and can also become a high-level language, Assembly is a low-level language, and machine language is understandable by machines. In the past, programmers used machine language to write programs. Since machine language is basically binary and runs directly with the CPU, it is very complicated. Later, people designed the assembly language (Assembly Language), but the assembly language is also hard. That’s why the high-level language was invented because it dealt with the body, memory, and central processing unit. Generally, Java can be used as Android App, Objective-C and Swift can be used as ISO App, then C# and C++ can be used as games, and C++, SQL, and Python can be used as backends (but Python is not so good, so it is not recommended to learn Python ). Generally, the aggregation language is used as Kernel. If you want to make an OS, you need to know a low-level language and a high-level language, such as the aggregation language and C++.
