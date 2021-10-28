@@ -27,7 +27,7 @@
 ##### - Unity and Unreal are both Game Engine
 ##### - If you want to do Android App to learn Java and download Android Studio: [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwh5qLBhALEiwAioods10QzoYQVxafHE_KDbIlCXNN44iV-A_ocJ8icfsFLZhsUF8ilw9K7xoCb7EQQ&gclrc_BwAvD)
 #####- If you want to develop a system, you can use Eclipse: [Eclipse](https://www.eclipse.org/)
-#####- You can use VS Code to edit the C# program in Unity: [Visual Studio](https://code.visualstudio.com/)
+##### - You can use VS Code to edit the C# program in Unity: [Visual Studio](https://code.visualstudio.com/)
 
 #### Programming Language :
 <img src = "https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="100" height="100"><img src = "https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" width="100" height="100">
