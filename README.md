@@ -48,7 +48,7 @@ import java.util.Scanner;
 
 public class RegexExp {
 
-	private static int left = 5;
+	private static final int left = 5;
 	static Scanner sc = new Scanner(System.in);
 
 	@SuppressWarnings("resource")
