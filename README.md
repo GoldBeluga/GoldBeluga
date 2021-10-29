@@ -40,7 +40,6 @@
 > * [x] Java
 > * [x] C#
 > * [x] C++
-> * [ ] Python
 ------
 ```java
 import java.util.regex.Matcher;
