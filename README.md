@@ -83,6 +83,14 @@ public class RegexExp {
 	}
 }
 ```
+ <a href="https://github.com/Goldhahaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Goldhahaha&show_icons=true&include_all_commits=true&show_icons=true&theme=dark" alt="Goldhahaha" />
+</a>
+<br><br>
+<a href="https://github.com/Goldhahaha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldhahaha&theme=dark">
+</a>
+
 ------
 ## That's all, bye bye😜
 © Goldhahaha
