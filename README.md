@@ -37,9 +37,9 @@
 
 - [x] Java
 - [x] C#
-- [ ] Python
 - [x] C++
-
+- [ ] Python
+------
 ```java
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
