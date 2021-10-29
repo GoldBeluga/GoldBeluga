@@ -35,6 +35,11 @@
 | --------   | -----:  | :----:  |
 | First Game    | Unity |   C#   |
 
+- [x] Java
+- [x] C#
+- [ ] Python
+- [x] C++
+
 ```java
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
