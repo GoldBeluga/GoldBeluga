@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and C#
 - 🤔 I’m looking for help with Unity and C# 
 - 📫 How to reach me:
-- <img src = https://raw.githubusercontent.com/SamuelCodez/SamuelCodez/main/discord.ico width="20" height="20"> Discord Server Code : Gold#0932
+- <img src = https://raw.githubusercontent.com/Goldhahaha/Goldhahaha/master/discord.ico width="20" height="20"> Discord Server Code : Gold#0932
 - 💬 Ask me about : I am currently in developer computer app.
 # If there are any problem, please write in the comment area
 ------
