@@ -76,7 +76,7 @@ public class RegexExp {
 				}
 			} else if (left == 0) {
 				throw new ArithmeticException(
-						"Sorry, you had already used 5 time of the Regex, to avoid your conputer is crashed please run again");
+						"Sorry, you had already used 5 time of the Regex. Pls try again");
 
 			}
 		}
@@ -90,9 +90,8 @@ public class RegexExp {
 <a href="https://github.com/Goldhahaha">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goldhahaha&theme=dark">
 </a>
-
 ------
 ## That's all, bye bye😜
 © Goldhahaha
-<br>
+</a>
 Copyright by Goldhahaha
