@@ -1,5 +1,4 @@
 # Hi there 👋
-------
 - 🌱 I’m currently learning Unity and C#
 - 🤔 I’m looking for help with Unity and C# 
 - 📫 How to reach me:
