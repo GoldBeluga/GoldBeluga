@@ -5,6 +5,10 @@
 - <img src = https://raw.githubusercontent.com/Goldhahaha/Goldhahaha/master/discord.ico width="20" height="20"> Discord Server Code : Gold#0932
 - 💬 Ask me about: I am currently in a developer computer app.
 - Where did I learn to program:<br> [<img src = https://sg-res.9appsdownloading.com/sg/res/jpg/69/39/0e7b4a26d918b8581a267b8ae13c-fld1.jpg width="100" height="100">](https://www.w3schools.com/) [<img src = https://iconape.com/wp-content/png_logo_vector/sololearn-logo.png width="100" height="100">](https://www.sololearn.com/)
+</a>
+and more......
+</a>
+
 # If there is any problem, please write in the comment area
 ------
 - Java, C#, C, Python, etc. are all high-level languages, C++ is an intermediate language, and can also become a high-level language, Assembly is a low-level language, and machine language is understandable by machines. In the past, programmers used machine language to write programs. Since machine language is basically binary and runs directly with the CPU, it is very complicated. Later, people designed the assembly language (Assembly Language), but the assembly language is also hard. That’s why the high-level language was invented because it dealt with the body, memory, and central processing unit. Generally, Java can be used as Android App, Objective-C and Swift can be used as ISO App, then C# and C++ can be used as games, and C++, SQL, and Python can be used as backends (but Python is not so good, so it is not recommended to learn Python ). Generally, the aggregation language is used as Kernel. If you want to make an OS, you need to know a low-level language and a high-level language, such as the aggregation language and C++.
