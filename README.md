@@ -97,7 +97,5 @@ public class RegexExp {
 
 ------
 ### That's all, bye bye😜
-© Goldhahaha
-</a>
-Copyright by Goldhahaha
+© Copyright by Goldhahaha
 
