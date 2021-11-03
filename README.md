@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - <img src = https://raw.githubusercontent.com/Goldhahaha/Goldhahaha/master/discord.ico width="20" height="20"> Discord Server Code : Gold#0932
 - 💬 Ask me about: I am currently in a developer computer app.
-- Where did I learn to program:<br> [<img src = https://sg-res.9appsdownloading.com/sg/res/jpg/69/39/0e7b4a26d918b8581a267b8ae13c-fld1.jpg width="100" height="100">](https://www.w3schools.com/) [<img src = https://iconape.com/wp-content/png_logo_vector/sololearn-logo.png width="100" height="100">](https://www.sololearn.com/)
+- Where did I learn programming:<br> [<img src = https://sg-res.9appsdownloading.com/sg/res/jpg/69/39/0e7b4a26d918b8581a267b8ae13c-fld1.jpg width="100" height="100">](https://www.w3schools.com/) [<img src = https://iconape.com/wp-content/png_logo_vector/sololearn-logo.png width="100" height="100">](https://www.sololearn.com/)
 </a>
 and more......
 </a>
