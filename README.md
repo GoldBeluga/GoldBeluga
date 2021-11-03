@@ -45,48 +45,7 @@ and more......
 > * [x] C#
 > * [x] C++
 ------
-```java
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.Scanner;
 
-public class RegexExp {
-
-	private static int left = 5;
-	static Scanner sc = new Scanner(System.in);
-
-	@SuppressWarnings("resource")
-	public static void main(String[] args) {
-	
-		Scanner sc = new Scanner(System.in);
-		while (true) {
-			if (left > 0) {
-				
-				System.out.println("Enter word you want to check. time left : " + left);
-				String youWantToCheckWord = sc.nextLine();
-				if (youWantToCheckWord.length() > 0)
-
-					System.out.println("Which word do you want to match. time left : " + left);
-				String rp = sc.nextLine();
-				Matcher mathcer = Pattern.compile(rp).matcher(youWantToCheckWord);
-				if (rp.length() > 0) {
-					if (mathcer.find()) {
-						System.out.println("Yes, it is same");
-						left--;
-					} else if (!mathcer.find()) {
-						System.out.println("No, it isn't same");
-						left--;
-					}
-				}
-			} else if (left == 0) {
-				throw new ArithmeticException(
-						"Sorry, you had already used 5 times of the Regex. Pls try again");
-
-			}
-		}
-	}
-}
-```
  <a href="https://github.com/Goldhahaha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Goldhahaha&show_icons=true&include_all_commits=true&show_icons=true&theme=dark" alt="Goldhahaha" />
 </a>
